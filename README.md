@@ -7,15 +7,15 @@ All the codes were tested on Ubuntu 14.04 compiled using [gcc 4.8.4](https://gcc
 $ gcc -Wall -std=c99 -o file file.c
 `````
 
-The textbooks (click on the images to access their errata):
+The textbooks (click on the images to visit their websites):
 
 <p>
 <center>
-    <a href="https://gkorpal.github.io/files/errata-king.pdf">
+    <a href="http://knking.com/books/c2/index.html">
      <img alt="matplot" src="https://gkorpal.github.io/images/king.jpg"
        width="210" height="300" class="center">
   </a>
-  <a href="https://gkorpal.github.io/files/errata-bryant.pdf">
+  <a href="http://csapp.cs.cmu.edu/3e/home.html">
      <img alt="hands-on" src="https://gkorpal.github.io/images/bryant.jpg"
        width="210" height="300" class="center">
   </a>
