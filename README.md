@@ -7,7 +7,7 @@ All the codes were tested on Ubuntu 14.04 compiled using [gcc 4.8.4](https://gcc
 $ gcc -std=c99 -Wall -o file file.c
 `````
 
-The textbooks (click on the images to visit their websites):
+The reference texts (click on the images to visit their websites):
 
 <p>
 <center>
