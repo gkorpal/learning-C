@@ -1,7 +1,7 @@
 My C practice codes from the Systems Programming course I took during Summer 2021 (undergraduate @ UArizona).
 
 
-All the codes were compiled on Ubuntu 14.04 server using [gcc 4.8.4](https://gcc.gnu.org/onlinedocs/gcc-4.8.4/gcc/) & openSUSE Leap 15.3 KDE using [gcc 7.5.0](https://gcc.gnu.org/onlinedocs/gcc-7.5.0/gcc/).
+All the codes were compiled on Ubuntu 14.04 server ([gcc 4.8.4](https://gcc.gnu.org/onlinedocs/gcc-4.8.4/gcc/)) & openSUSE Leap 15.3 KDE ([gcc 7.5.0](https://gcc.gnu.org/onlinedocs/gcc-7.5.0/gcc/)) using:
 
 `````shell
 $ gcc -std=c99 -Wall -o file file.c
