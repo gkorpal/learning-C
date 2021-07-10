@@ -4,8 +4,7 @@ My C practice codes from the Systems Programming course I took during Summer 202
 All the codes were tested on Ubuntu 14.04 server ([gcc 4.8.4](https://gcc.gnu.org/onlinedocs/gcc-4.8.4/gcc/)) & openSUSE Leap 15.3 KDE ([gcc 7.5.0](https://gcc.gnu.org/onlinedocs/gcc-7.5.0/gcc/)) using:
 
 `````shell
-$ gcc -std=c99 -Wall -g -o program program.c
-$ valgrind ./program > log.txt 2>&1
+$ gcc -std=c99 -Wall -o program program.c
 `````
 
 The reference texts (click on the images to visit their websites):
