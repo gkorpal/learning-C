@@ -31,7 +31,7 @@ void CreateStudent(Student **head, int i, char *s, float p) { // using pointer w
 		*head = link;
 	} else {
 		while(current->nextStudent != NULL) {
-		current = current->nextStudent; 
+		current = current->nextStudent; // move away from the head
 		}
 	current->nextStudent = link;
 	}
