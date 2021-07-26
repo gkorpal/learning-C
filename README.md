@@ -22,3 +22,4 @@ The reference texts (click on the images to visit their websites):
    </center>
  </p>
 
+Better option: [CS61B @ UCBerkeley](https://inst.eecs.berkeley.edu/~cs61c/archives.html), eg: [Fall2017](https://inst.eecs.berkeley.edu/~cs61c/fa17/)
