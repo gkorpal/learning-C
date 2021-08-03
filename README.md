@@ -1,6 +1,4 @@
-My C practice codes from the Systems Programming course I took during Summer 2021:
-
-> Programming in C, including single and multi-dimensional arrays, lists, stacks, queues, trees, and bit manipulation. Unix topics, including debuggers (gdb, valgrind, gcov), makefiles, shell programming, and other topics that support C programming. 
+My C practice codes from the Systems Programming course I took during Summer 2021 (UArizona).
 
 All the codes were tested on Ubuntu 14.04 server ([gcc 4.8.4](https://gcc.gnu.org/onlinedocs/gcc-4.8.4/gcc/)) & openSUSE Leap 15.3 KDE ([gcc 7.5.0](https://gcc.gnu.org/onlinedocs/gcc-7.5.0/gcc/)) using:
 
