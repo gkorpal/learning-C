@@ -21,4 +21,4 @@ The reference texts (click on the images to visit their websites):
    </center>
  </p>
 
-Better option: [CS61C @ UCBerkeley](https://inst.eecs.berkeley.edu/~cs61c/archives.html), eg: [Fall2017](https://inst.eecs.berkeley.edu/~cs61c/fa17/)
+Better option: [CS61C @ UCBerkeley](https://inst.eecs.berkeley.edu/~cs61c/archives.html), with [Spring 2015 videos on InternetArchive](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_)
