@@ -1,4 +1,4 @@
-My C practice codes from the Systems Programming course I took during Summer 2021 (UArizona).
+My C practice codes from the CSC 352 course (Systems Programming) taught by Ashiq Rahman during Summer 2021 (graduate @ UArizona).
 
 All the codes were tested on Ubuntu 14.04 server ([gcc 4.8.4](https://gcc.gnu.org/onlinedocs/gcc-4.8.4/gcc/)) & openSUSE Leap 15.3 KDE ([gcc 7.5.0](https://gcc.gnu.org/onlinedocs/gcc-7.5.0/gcc/)) using:
 
