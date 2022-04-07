@@ -21,4 +21,4 @@ The reference texts (click on the images to visit their websites):
    </center>
  </p>
 
-**Alternate option:** [CS61C @ UCBerkeley](https://inst.eecs.berkeley.edu/~cs61c/archives.html). For example, Spring 2015 [videos](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_) and [notes](https://inst.eecs.berkeley.edu/~cs61c/sp15/).
+**Equivalent course:** [CS61C @ UCBerkeley](https://inst.eecs.berkeley.edu/~cs61c/archives.html). For example, Spring 2015 [videos](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_) and [notes](https://inst.eecs.berkeley.edu/~cs61c/sp15/).
